@@ -7,9 +7,9 @@ A C simple project generator
 Edit the python file to put your own makefile in the first string on the first line of the code
 
 If you start from nothing just run
-'''
+```
 python main.py main.c module1 module2 module3
-'''
+```
 
 If you have already an main.c file run and you want to add module to your project (let's imagine that you want to add two module mod.c and mod2.c)
 ```
